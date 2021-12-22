@@ -1,0 +1,129 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background: url(imagenes/SL_043021_42650_02.jpg);
+}
+#contenido{
+	width: 70%;
+	border: 0.5px solid black;
+	margin: 0px auto;
+}
+header{
+	height: 100px;
+	width: 100%;
+	line-height: 50px;
+	text-align: center;
+	margin: 0px;
+	color: black;
+}
+
+nav ul li{
+	float: left;
+	color: #9bf6ff;
+	margin: 10px;
+	line-height: 30px;
+	margin-left: 50px;
+	margin-top: 10px;
+}
+
+ul li a{
+	text-decoration: none; 
+}
+a:hover{
+ 	text-decoration: underline;
+ 	background: #7209b7;
+	color: black;
+}
+a{
+	color: black;
+	padding: 16px 5px;
+}
+
+nav{
+	background: #4361ee;
+	border: 0px solid black;
+	padding-left: 100px;
+	height: 50px;
+}
+
+.ordenar{
+	clear: both;
+}
+
+#descripcion{
+	float: left;
+	width: 100%;
+	min-height: 300px;
+	background: #fefae0;
+	min-height: 450px;
+	text-align: justify;
+}
+.familia{
+	width: 50%;
+	padding-left: 98px;
+	margin-top: 25px;
+	margin-bottom: 7px;
+}
+.art1 p{
+	width: 50%;
+	margin-left: 98px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	font-size: 20;
+
+}
+.entreno{
+	padding-left: 358px;
+}
+.art2 p{
+	width: 50%;
+	margin-left: 359px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	font-size: 20;	
+}
+.pubg{
+	width: 50%;
+	padding-left: 98px;
+	margin-top: 25px;
+	margin-bottom: 7px;
+}
+.art3{
+	width: 50%;
+	margin-left: 98px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	font-size: 20;
+}
+.amigos{
+	padding-left: 358px;
+}
+.art4 p{
+	width: 50%;
+	margin-left: 359px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	font-size: 20;	
+}
+#imagen1
+{
+	margin-left: 98px;
+}
+#imagen2{
+	margin-left: 355px;
+}
+#imagen3{
+	margin-left: 6px;
+}
+#imagen4{
+	margin-left: 355px;
+}
+
+footer{
+	line-height: 50px;
+	background: #4361ee;
+	text-align: center;
+	color: white;
+}
